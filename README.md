@@ -98,10 +98,7 @@ pip install -r requirements.txt
 
 ## 🎥 Demo Preview
 
-Watch the full walk-through of this CLI tool in action:  
-▶️ [YouTube Demo](https://www.youtube.com/watch?v=n2kXr99IVzU)
-
-<img src="https://github.com/mohakamitpatel/ML_Preprocessing_CLI/blob/main/Image.png" width="640"/>
+[![Watch the demo](https://github.com/mohakamitpatel/ML_Preprocessing_CLI/blob/main/Image.png)](https://www.youtube.com/watch?v=n2kXr99IVzU)
 
 ---
 
