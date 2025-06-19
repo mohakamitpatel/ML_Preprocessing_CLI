@@ -118,5 +118,5 @@ If you have suggestions or find bugs, feel free to fork and improve.
 
 ---
 
-## 🫡 Peace out.
+✌️ Peace out. Built with code, not caffeine — Mohak
 
